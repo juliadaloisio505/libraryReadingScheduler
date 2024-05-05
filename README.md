@@ -1,5 +1,4 @@
 # libraryReadingScheduler
-Library Book Reading Schedule Calculator:
 
 Main idea:
 Calculates the amount of pages you need to read each day to finish a library book based on the amount of pages user needs to read, current day, and due date 
