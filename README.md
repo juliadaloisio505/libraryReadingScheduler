@@ -7,7 +7,7 @@ Main idea:
 Calculates the amount of pages you need to read each day to finish a library book based on the amount of pages user needs to read, current day, and due date 
 Would be super useful 
 
-I originally had the idea to build this project after checking out Don Quixote from Bartle Library. Since the novel is over 1000 pages long, I needed to reassure myself that I would be able to finish the book in time before the looming due date! I am eternally grateful for the opportunity to produce this project and have it be judged at HackBU’s hackathon. This project is definitely something I would use in my daily life going forward.  :)
+I originally had the idea to build this project after checking out Don Quixote from Bartle Library. Since the novel is over 1000 pages long, I needed to reassure myself that I would be able to finish the book in time before the looming due date! I am eternally grateful for the opportunity to produce this project and have it be judged at HackBU’s hackathon. This project is definitely something I would use in my daily life going forward. 
 
 This project can also be easily adapted for reading assignments that students have in order to pace themselves for their assignments 
 
