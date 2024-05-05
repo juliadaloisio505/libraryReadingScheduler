@@ -14,7 +14,6 @@ Ask user for due date of book
 Ask how many pages in the book 
 Have you started the book yet?
 What page are you on?
-Then can calculate the amount of pages user has left to read with total pages - current page 
 Do you want to pace your reading?
-Implements a feature that allows the reader to spread out their reading if they don’t want to read every day until the due date 
+Implements a feature that allows the reader to spread out their reading if they don’t want to read every day until the due date. 
 
